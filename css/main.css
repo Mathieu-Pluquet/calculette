@@ -94,16 +94,7 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-   .calculatrice
-   {
-           width:350px;
-           height:420px;
-           border:1px solid #CCCCCC;
-           margin:auto;
-           padding-left:5px;
-           padding-bottom:5px;
-           margin-top: 200px;
-   }
+
    .calculatrice td
    {
            height:16%;
@@ -137,6 +128,18 @@ textarea {
            height:90%;
            font-size:25px;
            margin-left: 5px;
+
+   }
+
+   .calculatrice
+   {
+           width:350px;
+           height:420px;
+           border:1px solid #CCCCCC;
+           margin:auto;
+           padding-left:5px;
+           padding-bottom:5px;
+           margin-top: 200px;
 
    }
 
